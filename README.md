@@ -1,5 +1,5 @@
 # useR-2016
-Slides for the "Wrap your model in an R package" talk @ useR2016
+[Slides](https://github.com/mrustl/useR-2016/blob/master/WrapYourModel.pdf) for the "Wrap your model in an R package" talk @ useR2016
 
 #Challenge
 Environemental models are: 
