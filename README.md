@@ -1,8 +1,8 @@
 # useR-2016
 [Slides](https://github.com/mrustl/useR-2016/blob/master/WrapYourModel.pdf) for the "Wrap your model in an R package" talk @ useR2016
 
-#Challenge
-Environemental models are: 
+#Challenges
+Environmental models are: 
 - (Usually) not implemented in R 
 - Generic: i.e. the model parameterisations need to be defined for each case-study (**at least one model run**),
 possibly followed by a sensitivity analysis (**multiple model runs**) to identify the model parameters with the 
