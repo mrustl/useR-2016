@@ -20,7 +20,7 @@ the error between measured and predicted model output is performed by varying th
 
 #“Wrapped“ models 
 
-[WTAQ-2 (USGS)](water.usgs.gov/ogw/wtaq)
+[WTAQ-2 (USGS)](http://water.usgs.gov/ogw/wtaq)
 - R package: https://github.com/KWB-R/kwb.wtaq 
 - Tutorial: https://kwb-r.github.io/kwb.wtaq 
 
