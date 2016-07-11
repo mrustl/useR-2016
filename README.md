@@ -1,8 +1,8 @@
 # useR-2016
 
-<iframe src="https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/Wrap-your-model-in-an-R-package/player" width="1280" height="720" allowFullScreen frameBorder="0"></iframe>
 
-[Video](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/Wrap-your-model-in-an-R-package/player) of talk
+[![Video](video.jpg)](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/Wrap-your-model-in-an-R-package/player)
+
 
 [Slides](https://github.com/mrustl/useR-2016/blob/master/WrapYourModel.pdf) for the "Wrap your model in an R package" talk @ useR2016
 
