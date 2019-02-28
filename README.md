@@ -6,7 +6,7 @@
 
 [Slides](https://github.com/mrustl/useR-2016/blob/master/WrapYourModel.pdf) for the "Wrap your model in an R package" talk @ useR2016
 
-#Challenges
+# Challenges
 Environmental models are: 
 - (Usually) not implemented in R 
 - Generic: i.e. the model parameterisations need to be defined for each case-study (**at least one model run**),
@@ -18,7 +18,7 @@ the error between measured and predicted model output is performed by varying th
 **Rule-of-thumb:**
 "If you’re going to do something **three times or more**, you should think about writing a **small package**"([Roger D. Peng, 2016](http://simplystatistics.org/2016/05/18/software-engineering-data-science/))
 
-#“Wrapped“ models 
+# “Wrapped“ models 
 
 [WTAQ-2 (USGS)](http://water.usgs.gov/ogw/wtaq)
 - R package: https://github.com/KWB-R/kwb.wtaq 
@@ -29,7 +29,7 @@ In addition we also "wrapped" the following models (but these are not yet availa
 - [VS2DI (USGS)](http://wwwbrr.cr.usgs.gov/projects/GW_Unsat/vs2di1.3/) 
 
 
-#More details on "wrapping" concept:
+# More details on "wrapping" concept:
 
 Check out our conference paper ["Wrap your model!" (Sonnenberg et al. 2014)](http://doi.org/10.13140/RG.2.1.2140.3683)
 
